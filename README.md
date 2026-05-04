@@ -3,15 +3,10 @@
 # Overview
 The AI Learning Agent is an interactive system designed to assist users in understanding various topics, generating quizzes, and creating study plans. The agent demonstrates key AI concepts such as interaction, memory, and reasoning.
 
-This project was developed as part of the *Data Science Applications and AI* module.
-
-
 # Objectives
 - Build an autonomous AI agent for real-world learning support
 - Demonstrate interaction, reasoning, and memory
 - Provide useful educational features for users
-
-# Features
 
 # Intelligent Interaction
 - Accepts user queries on various topics
@@ -20,10 +15,6 @@ This project was developed as part of the *Data Science Applications and AI* mod
   - Explanations
   - Examples
   - Importance
-
-# Memory Functionality
-- Remembers previous user inputs
-- Displays past queries to simulate conversational memory
 
 # Goal-Based Actions
 - 🧠 Generate Quiz  
@@ -38,39 +29,6 @@ This project was developed as part of the *Data Science Applications and AI* mod
 - Streamlit  
 - OpenAI API (optional integration)  
 - Python-dotenv  
-
-# How It Works
-The system follows a simple AI agent architecture:
-
-User Input → Processing → Response Generation → Memory Storage → UI Display
-
-- The agent processes user queries  
-- Detects the topic/domain  
-- Generates structured responses  
-- Stores interactions in session memory  
-- Displays outputs via a Streamlit interface  
-
-# ▶️ How to Run the Project
-
-# Step 1: Install dependencies
-
-# Step 2: Run the application
-
-
-# API Setup (Optional)
-If using OpenAI API:
-
-1. Create a `.env` file  
-2. Add your API key:
-
-
-> Note: The application includes a demo mode if API access is unavailable.
-
-# Demonstration
-The system is demonstrated through a short video showing:
-- User interaction  
-- Memory functionality  
-- Quiz and study plan features  
 
 # Key Learning Outcomes
 - Understanding AI agent design principles  
